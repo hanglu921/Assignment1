@@ -52,7 +52,7 @@ namespace Assignment1_Summer2021
             int pivot = PivotIndex(arr1);
             if (pivot > 0)
             {
-                Console.WriteLine("The Pivot index for the given array is {0}", pivot);
+                Console.WriteLine("The pivot index for the given array is {0}", pivot);
             }
             else
             {
